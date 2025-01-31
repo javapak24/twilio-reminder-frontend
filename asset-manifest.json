@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/twilio-reminder-frontend/static/css/main.f855e6bc.css",
+    "main.js": "/twilio-reminder-frontend/static/js/main.c8ac416c.js",
+    "static/js/488.e892df8b.chunk.js": "/twilio-reminder-frontend/static/js/488.e892df8b.chunk.js",
+    "static/media/logo.svg": "/twilio-reminder-frontend/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/twilio-reminder-frontend/index.html",
+    "main.f855e6bc.css.map": "/twilio-reminder-frontend/static/css/main.f855e6bc.css.map",
+    "main.c8ac416c.js.map": "/twilio-reminder-frontend/static/js/main.c8ac416c.js.map",
+    "488.e892df8b.chunk.js.map": "/twilio-reminder-frontend/static/js/488.e892df8b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.c8ac416c.js"
+  ]
+}
